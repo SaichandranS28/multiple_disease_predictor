@@ -11,9 +11,9 @@ from streamlit_option_menu import option_menu
 
 #loading the saved models
 
-breast_cancer_model = pickle.load(open('C:/Users/ssaic/Desktop/Colab/breast_cancer_model.sav','rb'))
-heart_disease_model = pickle.load(open('C:/Users/ssaic/Desktop/Colab/heart_disease_model.sav','rb'))
-diabetes_model = pickle.load(open('C:/Users/ssaic/Desktop/Colab/diabetes_model.sav','rb'))
+breast_cancer_model = pickle.load(open('breast_cancer_model.sav','rb'))
+heart_disease_model = pickle.load(open('heart_disease_model.sav','rb'))
+diabetes_model = pickle.load(open('diabetes_model.sav','rb'))
 
 
 # sidebar to navigate
