@@ -34,7 +34,7 @@ with st.sidebar:
 if(selected == 'Diabetes'):
     
     st.title('Diabetes Prediction')
-    st.image('C:/Users/ssaic/Desktop/Colab/Diabetes-Overview-1-768x768.png')
+    st.image('Diabetes-Overview-1-768x768.png')
     
     col1, col2, col3 = st.columns(3)
     
@@ -79,7 +79,7 @@ if(selected == 'Diabetes'):
 if(selected == 'Heart Disease'):
 
     st.title('Heart Disease Prediction')
-    st.image('C:/Users/ssaic/Desktop/Colab/heart-disease-hub.jpg')
+    st.image('heart-disease-hub.jpg')
     
     col1, col2, col3 = st.columns(3)
     
@@ -132,7 +132,7 @@ if(selected == 'Breast Cancer'):
     
     #page title
     st.title('Breast Cancer Prediction')
-    st.image('C:/Users/ssaic/Desktop/Colab/wf959478facebook1200x6303.jpg')
+    st.image('wf959478facebook1200x6303.jpg')
     
     col1, col2, col3, col4 = st.columns(4)
     
