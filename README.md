@@ -13,7 +13,7 @@ Requirements :
     1) OS – Windows ,Ubuntu etc…
     2) Anaconda Navigator– Python 3.8 , Spyder IDE installation 
     3) Required Packages (Eg. Numpy,Pandas,Matplotlib,Streamlit etc)
-    4) Google Collabarotary with wine_quality.csv dataset
+    4) Google Collabarotary with diabetes.csv,heart_disease.csv, breast_cancer.csv datasets
     HARDWARE :
     1) PC/Laptop
     2) i5 processor & 6 GB RAM
